@@ -1,3 +1,8 @@
 # JiyunJava
 
-withcs.net
+This repository is code for "withcs.net".
+I created all of this code on my own.
+
+You can see answers in weekXX/src/com/company/Main.java
+
+If you have any questions, please visit yunmap.github.io and contact me!
